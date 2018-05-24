@@ -1,4 +1,4 @@
-# React Native - Product Search Engine With Image
+# Python - Product Search Engine With Image
 
 ## Introduction
 > The product search engine(Profind) is the mobile application that automatically collects prices and images of products in shopping sites, and it provides easier tool to find similar products of uploaded images by users.
