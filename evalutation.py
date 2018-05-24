@@ -9,9 +9,14 @@ result1 = compare.find('static/search/test.jpg', 'search', '', ColorFeature())
 
 print(result1)
 
-#result2 = compare.find('static/search/test.jpg', 'search', '', TextureFeature())
+result2 = compare.find('static/search/test.jpg', 'search', '', TextureFeature())
 
-#result3 = compare.find('static/search/test.jpg', 'search', '', ShapeFeature())
+print(result2)
 
-#result4 = compare.find('static/search/test.jpg', 'search', '', DeepFeature())
+result3 = compare.find('static/search/test.jpg', 'search', '', ShapeFeature())
 
+print(result3)
+
+result4 = compare.find('static/search/test.jpg', 'search', '', DeepFeature())
+
+print(result4)
