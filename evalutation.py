@@ -19,4 +19,4 @@ print(result3)
 
 result4 = compare.find('static/search/test.jpg', 'search', '', DeepFeature())
 
-print(result3)
+print(result4)
