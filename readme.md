@@ -8,10 +8,11 @@
 > Mobile Application - https://github.com/lvntayn/react-native-search-with-image
 
 ## Features
-- Product search by uploading photos from the gallery
-- Product search by taking photo
-- Sort products in ascending or descending order
-- Can display the search history
+- Similarity comparison of product images
+- Collects products from hepsiburada, trendyol and markafoni
+- Stores product meta information in database
+- Stores product images in server
+- 4 image feature extraction method are implemented
 
 ## Installation
 Edit profind/config.py file
